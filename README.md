@@ -11,19 +11,10 @@
 ---
 
 ## About
+Curiosity drives everything I build.
 
-I'm passionate about creating meaningful projects, learning new technologies, and continuously improving as a developer.
-
-I believe every project is another step toward mastery.
-
----
-
-## Current Focus
-
-- 🚀 Building personal projects
-- 🌱 Learning every day
-- 💡 Exploring new ideas
-- ⚡ Contributing one commit at a time
+Every project is another step toward mastery.
+Every commit is another step toward the future.
 
 ---
 
