@@ -38,9 +38,7 @@ Every commit is another step toward the future.
 ## Contribution Snake
 
 <p align="center">
-
-![Snake animation](https://raw.githubusercontent.com/GR3ATSAGE/GR3ATSAGE/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://raw.githubusercontent.com/GR3ATSAGE/GR3ATSAGE/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
