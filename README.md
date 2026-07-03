@@ -1,11 +1,6 @@
 <p align="center">
   <img src="banner.png" alt="Banner" width="100%">
 </p>
-<h1 align="center">Heaven's Equal</h1>
-
-<p align="center">
-  <b>Building the future one commit at a time.</b>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Always+Learning.;Always+Building.;Always+Improving.;Welcome+to+my+GitHub." alt="Typing SVG" />
