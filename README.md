@@ -11,10 +11,11 @@
 ---
 
 ## About
+
 Curiosity drives everything I build.
 
-Every project is another step toward mastery.
-Every commit is another step toward the future.
+Every project is an opportunity to learn,
+improve, and create something meaningful.
 
 ---
 
