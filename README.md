@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
 <h1 align="center">Heaven's Equal</h1>
 
 <p align="center">
