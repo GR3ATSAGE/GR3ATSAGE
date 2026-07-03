@@ -45,7 +45,7 @@ More projects coming soon...
 
 ## Philosophy
 
-> **Building the future one commit at a time.**
+> **Every project begins with curiosity.**
 
 ---
 
