@@ -21,7 +21,7 @@ Every commit is another step toward the future.
 ## GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GR3ATSAGE&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="github-readme-stats"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GR3ATSAGE&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
