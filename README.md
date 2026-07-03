@@ -25,10 +25,6 @@ improve, and create something meaningful.
   <img src="https://streak-stats.demolab.com?user=GR3ATSAGE&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/GR3ATSAGE/GR3ATSAGE/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
