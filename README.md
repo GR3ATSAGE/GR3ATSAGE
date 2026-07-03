@@ -1,41 +1,76 @@
-# Enhanced Profile Introduction
+<h1 align="center">Heaven's Equal</h1>
 
-Welcome to my profile! Here, you'll find a variety of projects and demonstrations that showcase my skills and creativity. 
+<p align="center">
+  <b>Building the future one commit at a time.</b>
+</p>
 
-## Interactive Snake Game Animation
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Always+Learning.;Always+Building.;Always+Improving.;Welcome+to+my+GitHub." alt="Typing SVG" />
+</p>
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Snake Game</title>
-    <style>
-        body { font-family: sans-serif; text-align: center; }
-        #gameCanvas { border: 1px solid black; }
-    </style>
-</head>
-<body>
-    <h1>Snake Game</h1>
-    <canvas id="gameCanvas" width="400" height="400"></canvas>
-    <script>
-        // Basic Snake Game logic in JavaScript
-        let canvas = document.getElementById('gameCanvas');
-        let ctx = canvas.getContext('2d');
-        let snake = [{ x: 10, y: 10 }];
-        let direction = { x: 0, y: 0 };
+---
 
-        function gameLoop() {
-            // Game logic goes here
-            // Update and render the game
-            ctx.clearRect(0, 0, canvas.width, canvas.height);
-            ctx.fillRect(snake[0].x * 10, snake[0].y * 10, 10, 10);
-            // Additional game setup
-        }
+## About
 
-        setInterval(gameLoop, 100);
-    </script>
-</body>
-</html>
-```
+I'm passionate about creating meaningful projects, learning new technologies, and continuously improving as a developer.
 
-Feel free to interact with the code and make your own modifications! I appreciate feedback and contributions to enhance this project further!
+I believe every project is another step toward mastery.
+
+---
+
+## Current Focus
+
+- 🚀 Building personal projects
+- 🌱 Learning every day
+- 💡 Exploring new ideas
+- ⚡ Contributing one commit at a time
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GR3ATSAGE&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GR3ATSAGE&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## Contribution Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GR3ATSAGE&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+
+![Snake animation](https://raw.githubusercontent.com/GR3ATSAGE/GR3ATSAGE/output/github-contribution-grid-snake-dark.svg)
+
+</p>
+
+---
+
+## Featured Projects
+
+🔹 Scientific Calculator *(Currently in development)*
+
+More projects coming soon...
+
+---
+
+## Philosophy
+
+> **Building the future one commit at a time.**
+
+---
+
+<p align="center">
+
+Thanks for visiting.
+
+</p>
