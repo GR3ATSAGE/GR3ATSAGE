@@ -33,9 +33,10 @@ improve, and create something meaningful.
 
 ## Featured Projects
 
-🔹 Scientific Calculator *(Currently in development)*
+🧮 **Scientific Calculator**
+> A modern scientific calculator built with HTML, CSS & JavaScript.
 
-More projects coming soon...
+🚀 More projects are on the way.
 
 ---
 
