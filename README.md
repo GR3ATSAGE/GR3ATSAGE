@@ -15,37 +15,17 @@ improve, and create something meaningful.
 
 ## Contribution Streak
 
-<table align="center">
-<tr>
+<p align="center">
 
-<td align="right" width="30%">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=170&lines=Building." />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=170&lines=Creating." />
-
-</td>
-
-<td align="center" width="40%">
+<img align="left" width="180" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&repeat=true&width=180&height=60&lines=Building.;Creating."/>
 
 <img src="https://streak-stats.demolab.com?user=GR3ATSAGE&theme=tokyonight&hide_border=true"/>
 
-</td>
+<img align="right" width="180" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&repeat=true&width=180&height=60&lines=Learning.;Improving."/>
 
-<td align="left" width="30%">
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=170&lines=Learning." />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=170&lines=Improving." />
-
-</td>
-
-</tr>
-</table>
+<br clear="both"/>
 
 ---
 
