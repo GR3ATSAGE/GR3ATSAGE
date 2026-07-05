@@ -15,22 +15,42 @@ improve, and create something meaningful.
 
 ## Contribution Streak
 
-<p align="center">
+<table align="center" style="width:100%; border:none; border-collapse:collapse;">
+<tr style="border:none;">
 
-<img align="left" width="180" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&repeat=true&width=180&height=60&lines=Building.;Creating."/>
+<td align="center" width="25%" style="border:none;">
+
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&multiline=false&repeat=true&width=170&height=40&lines=Building."/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&multiline=false&repeat=true&width=170&height=40&lines=Creating."/>
+
+</td>
+
+<td align="center" width="50%" style="border:none;">
 
 <img src="https://streak-stats.demolab.com?user=GR3ATSAGE&theme=tokyonight&hide_border=true"/>
 
-<img align="right" width="180" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&repeat=true&width=180&height=60&lines=Learning.;Improving."/>
+</td>
 
-</p>
+<td align="center" width="25%" style="border:none;">
 
-<br clear="both"/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&multiline=false&repeat=true&width=170&height=40&lines=Learning."/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&multiline=false&repeat=true&width=170&height=40&lines=Improving."/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GR3ATSAGE/GR3ATSAGE/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/GR3ATSAGE/GR3ATSAGE/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
